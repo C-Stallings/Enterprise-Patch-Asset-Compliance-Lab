@@ -6,6 +6,15 @@ This lab demonstrates enterprise patch management, asset inventory tracking, and
 
 The project produces audit-ready compliance artifacts and RMF-style documentation.
 
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/051e07a7-ac3e-4209-815d-01d3efd58f2c" 
+    height="367" 
+    width="643" 
+    alt="enterprise-lab-overview"
+  />
+</p>
+
 ---
 
 ## Architecture
